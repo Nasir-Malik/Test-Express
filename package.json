@@ -1,0 +1,23 @@
+{
+  "name": "test-express",
+  "version": "1.0.0",
+  "description": "To Test the basics of Express Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nasir-Malik/Test-Express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nasir-Malik/Test-Express/issues"
+  },
+  "homepage": "https://github.com/Nasir-Malik/Test-Express#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
